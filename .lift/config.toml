@@ -1,0 +1,2 @@
+customTools = ['https://raw.githubusercontent.com/sonatype/naja/main/naja.sh']
+tools = ['naja']
